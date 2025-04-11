@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **lebeaud.simon@gmail.com**
 
-- 📄 Know about my experiences [here](here)
+- 📄 Know about my experiences [here](https://github.com/simonlebeaud/simonlebeaud/blob/main/CV_SimonLebeaud_FR.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
