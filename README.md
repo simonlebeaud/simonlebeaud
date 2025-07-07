@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=simonlebeaud&label=Profile%20views&color=0e75b6&style=flat" alt="simonlebeaud" /> </p>
 
-- 🔭 I’m currently working on **WeightLifting 3D pose estimation to automate crossfit rep counting**
-
 - 🌱 I’m currently learning **Rust**
 
 - 📫 How to reach me **lebeaud.simon@gmail.com**
