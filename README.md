@@ -1,5 +1,4 @@
 <h1 align="center">Hello there 👋, I'm Simon Lebeaud</h1>
-<h3 align="center">A Data Scientist looking for new opportunities</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=simonlebeaud&label=Profile%20views&color=0e75b6&style=flat" alt="simonlebeaud" /> </p>
 
